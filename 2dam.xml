@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<grupo denominacion="2º Desarrollo de Aplicaciones Multiplataforma">
+    <alumnos>
+        <apellidos>Norris</apellidos>
+        <fechaNacimiento>1940-03-10</fechaNacimiento>
+        <nombre>Chuck</nombre>
+        <repite>true</repite>
+        <sexo>HOMBRE</sexo>
+    </alumnos>
+    <alumnos>
+        <apellidos>Van Damme</apellidos>
+        <fechaNacimiento>1960-10-18</fechaNacimiento>
+        <nombre>Jean-Claude</nombre>
+        <repite>false</repite>
+        <sexo>MUJER</sexo>
+    </alumnos>
+    <finCurso>2017-06-20</finCurso>
+    <iniCurso>2016-09-12</iniCurso>
+    <pesos actitud="10.0" examenes="70.0" practicas="20.0"/>
+</grupo>
